@@ -1,0 +1,4 @@
+[01;32mroot[00m [01;34m/workspace/web3-curriculum[00m (main) $ cd . && NODE_ENV=production node ./node__modules/@freecodecamp/freecodecamp-os/.freeCodeCamp/tooling/server.js
+🔵 INFO:  2024-05-26 22:58:48 Listening on port 8080
+🔵 INFO:  2024-05-26 22:58:50 Watching for file changes on /workspace/web3-curriculum
+🔵 INFO:  2024-05-26 22:58:57 Watching for file changes on /workspace/web3-curriculum
